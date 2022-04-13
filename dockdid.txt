@@ -1,0 +1,100 @@
+  927  yarn & yarn watch
+  928  fg
+  929  yarn && yarn watch
+  930  yarn watch --env api=https://dev-api.va.gov
+  931  yarn watch --env api=https://dev-api.va.gov
+  932  yarn watch 
+  933  yarn watch --env api=https://dev-api.va.gov
+  934  yarn watch 
+  935  yarn run mock-api --responses ${workspaceFolder}/src/applications/vaos/services/mocks/index.js
+  936  ls
+  937  yarn run mock-api --responses ./src/applications/vaos/services/mocks/index.js
+  938  yarn run mock-api --responses ./src/applications/vaos/services/mocks/index.js
+  939  yarn & yarn watch
+  940  pwd
+  941  ls
+  942  cd mywork/vawork
+  943  ls
+  944  cd Repos
+  945  ls
+  946  cd vets-api 
+  947  git pull
+  948  cd ..
+  949  ls
+  950  cd -
+  951  git status
+  952  cd ..
+  953  ls
+  954  cd vets-website
+  955  git pull
+  956  git diff
+  957  git pull
+  958  git diff config/webpack.config.js
+  959  ls
+  960  rm config/webpack.config.js
+  961  git checkout config/webpack.config.js
+  962  git pull
+  963  ls
+  964  yarn && yarn watch
+  965  yarn run mock-api --responses ./src/applications/vaos/services/mocks/index.js. 
+  966  find . -name mock .
+  967  pwd
+  968  find . -name "mock"
+  969  ls -l ./node_modules/redux-mock-store/test/mock
+  970  find . -name "mocks"
+  971  yarn run mock-api --responses ./src/applications/check-in/tests/unit/mocks
+  972  yarn run mock-api --responses ./src/applications/check-in/tests/unit/mocks/index.js
+  973  find . -name "mocks"
+  974  ls -l ./src/applications/vaos/tests/mocks
+  975  yarn run mock-api --responses ./src/applications/check-in/tests/unit/mocks/v0.js
+  976  idea .
+  977  history -1000
+  978  history -1000 | grep mock
+  979  yarn run mock-api --responses ${workspaceFolder}/src/applications/vaos/services/mocks/index.js
+  980  ls ./src/applications/vaos/services/mocks/
+  981   yarn run mock-api --responses ./src/applications/vaos/services/mocks/index.js
+  982  pwd
+  983  ls
+  984  pwd
+  985  cd ../vets-api
+  986  ls
+  987   yarn run mock-api --responses ./src/applications/vaos/services/mocks/index.js
+  988  cd -
+  989  ls
+  990   yarn run mock-api --responses ./src/applications/vaos/services/mocks/index.js
+  991  cd ..
+  992  pwd
+  993  idea .
+  994  cd ..
+  995  ls
+  996  mkdir demodock
+  997  cd demodock
+  998  ls
+  999  docker
+ 1000  node
+ 1001  curl localhost:8000
+ 1002  curl localhost:8000
+ 1003  curl localhost:8000
+ 1004  curl localhost:8000
+ 1005  curl localhost:8000
+ 1006  pwd
+ 1007  ls
+ 1008  docker
+ 1009  vi package.js
+ 1010  ls
+ 1011  vi p*
+ 1012  docker list
+ 1013  docker 
+ 1014  docker images
+ 1015  docker rm myapp/demobot
+ 1016  docker rmi myapp/demobot
+ 1017  docker rmi myapp/demodemo
+ 1018  docker rmi myapp/demonode
+ 1019  docker rm myapp/demodemo
+ 1020  docker rmi myapp/demodemo
+ 1021  docker rmi myapp/demobot
+ 1022  docker rmi myapp/demobot -f
+ 1023  docker rm myapp/demodemo
+ 1024  docker rm myapp/demobot
+ 1025  docker rmi myapp/demobot
+ 1026  history
